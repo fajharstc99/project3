@@ -1,0 +1,9 @@
+.navbar, .toolbar {
+	background:#039370;
+}
+a{
+	color:#006600;
+}
+a:hover, a:focus{
+	color:#00FF00;
+}
