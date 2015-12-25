@@ -7,6 +7,20 @@ a{
 a:hover, a:focus{
 	color:#00FF00;
 }
+.pengantar-circle{
+	border-radius:50%;
+    border: 1px solid #039370;
+    padding: 1px;
+	height:50px;
+	width:50px;
+}
+.produk-rounded{
+	border-radius: 25px;
+    border: 1px solid #039370;
+    padding: 5px;
+    width: 150px;
+    height: 150px; 
+}
 .logox{
 	margin:auto;
 	position:absolute;
@@ -24,4 +38,4 @@ a:hover, a:focus{
 	bottom:0;
 	right:0;
 	top:95%;
-}*/
+}

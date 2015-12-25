@@ -18,13 +18,13 @@ $$('.bumbu').on('click', function () {
     myApp.alert('Merupakan bla bla bla', 'Bumbu Dapur');
 }); 
 $$('.P00001').on('click', function () {
-    myApp.alert('<center><img src="img/zikran.jpg" height="100px" width="100px"></center><table width="100%"><tr align="left" valign="top"><td>Nama</td><td>:</td><td>Zikran B. Yakala</td></tr><tr align="left" valign="top"><td>ID</td> <td>:</td><td>P00001</td></tr><tr align="left" valign="top"><td>No. Hp</td><td>:</td><td>08xx xxxx xxxx</td></tr><tr align="left" valign="top"><td>Alamat</td><td>:</td><td>Jl. xxxxxx No. 1</td></tr></table>','<center>Detail</center>');
+    myApp.alert('<center><img src="img/zikran.jpg" height="100px" width="100px" class="produk-rounded"></center><table width="100%"><tr align="left" valign="top"><td>Nama</td><td>:</td><td>Zikran B. Yakala</td></tr><tr align="left" valign="top"><td>ID</td> <td>:</td><td>P00001</td></tr><tr align="left" valign="top"><td>No. Hp</td><td>:</td><td>08xx xxxx xxxx</td></tr><tr align="left" valign="top"><td>Alamat</td><td>:</td><td>Jl. xxxxxx No. 1</td></tr></table>','<center>Detail</center>');
 });
 $$('.P00002').on('click', function () {
-    myApp.alert('<center><img src="img/iwan.jpg" height="100px" width="100px"></center><table width="100%"><tr align="left" valign="top"><td>Nama</td><td>:</td><td>Laode Alfian</td></tr><tr align="left" valign="top"><td>ID</td> <td>:</td><td>P00002</td></tr><tr align="left" valign="top"><tr align="left" valign="top"><td>No. Hp</td><td>:</td><td>08xx xxxx xxxx</td></tr><td>Alamat</td><td>:</td><td>Jl. xxxxxx No. 1</td></tr></table>','<center>Detail</center>');
+    myApp.alert('<center><img src="img/iwan.jpg" height="100px" width="100px" class="produk-rounded"></center><table width="100%"><tr align="left" valign="top"><td>Nama</td><td>:</td><td>Laode Alfian</td></tr><tr align="left" valign="top"><td>ID</td> <td>:</td><td>P00002</td></tr><tr align="left" valign="top"><tr align="left" valign="top"><td>No. Hp</td><td>:</td><td>08xx xxxx xxxx</td></tr><td>Alamat</td><td>:</td><td>Jl. xxxxxx No. 1</td></tr></table>','<center>Detail</center>');
 });
 $$('.P00003').on('click', function () {
-    myApp.alert('<center><img src="img/Fajar.jpg" height="100px" width="100px"></center><table width="100%"><tr align="left" valign="top"><td>Nama</td><td>:</td><td>Fajar Nugraha Arqahtany</td></tr><tr align="left" valign="top"><td>ID</td> <td>:</td><td>P00003</td></tr><tr align="left" valign="top"><tr align="left" valign="top"><td>No. Hp</td><td>:</td><td>08xx xxxx xxxx</td></tr><td>Alamat</td><td>:</td><td>Jl. xxxxxx No. 1xxxxxx</td></tr></table>','<center>Detail</center>');
+    myApp.alert('<center><img src="img/Fajar.jpg" height="100px" width="100px" class="produk-rounded"></center><table width="100%"><tr align="left" valign="top"><td>Nama</td><td>:</td><td>Fajar Nugraha Arqahtany</td></tr><tr align="left" valign="top"><td>ID</td> <td>:</td><td>P00003</td></tr><tr align="left" valign="top"><tr align="left" valign="top"><td>No. Hp</td><td>:</td><td>08xx xxxx xxxx</td></tr><td>Alamat</td><td>:</td><td>Jl. xxxxxx No. 1xxxxxx</td></tr></table>','<center>Detail</center>');
 });
 
 // Add main view
